@@ -3367,6 +3367,7 @@ packages:
         - selda
         - selda-sqlite
         - selda-postgresql
+        - selda-json
 
     "Luis Pedro Coelho <luis@luispedro.org> @luispedro":
         - safeio
